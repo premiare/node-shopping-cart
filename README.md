@@ -1,4 +1,4 @@
-# Brayden Barter - Fontis Project
+# Shopping Cart - built with node.js using readline
 
 To run the interactive node.js application, run:
 ` npm start `
